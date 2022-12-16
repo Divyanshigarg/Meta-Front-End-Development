@@ -1,4 +1,4 @@
-# Module Quiz: Get started with Web Development
+# Knowledge Check - How the web works
 
 ### 1. In the client/server model, your device is a ____________________.
 
